@@ -15,5 +15,4 @@ Certifique-se de ter o Python instalado em sua máquina.
 
 ## Como usar
 
-1. Clone o repositório:
-
+1. Clone o repositório: https://github.com/MillenaCoelho/SistemaBancario.git
